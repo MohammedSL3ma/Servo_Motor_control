@@ -1,0 +1,12 @@
+MCAL/EXTINT_V1/EXTINT_Prg.o MCAL/EXTINT_V1/EXTINT_Prg.o:  \
+ ../MCAL/EXTINT_V1/EXTINT_Prg.c ../MCAL/EXTINT_V1/../../LIB/stdtypes.h \
+  ../MCAL/EXTINT_V1/../../LIB/BIT_MATH.h ../MCAL/EXTINT_V1/EXTINT_int.h \
+  ../MCAL/EXTINT_V1/EXTINT_reg.h
+
+../MCAL/EXTINT_V1/../../LIB/stdtypes.h:
+
+../MCAL/EXTINT_V1/../../LIB/BIT_MATH.h:
+
+../MCAL/EXTINT_V1/EXTINT_int.h:
+
+../MCAL/EXTINT_V1/EXTINT_reg.h:
